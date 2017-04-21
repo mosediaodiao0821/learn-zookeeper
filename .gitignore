@@ -1,0 +1,4 @@
+*.classpath
+config-service/target/
+*.project
+config-service/.settings/
